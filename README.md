@@ -3,16 +3,33 @@ Collection of links I find worthy to save somewhere for later use. Mostly relate
 
 ## FE
 https://coggle.it/diagram/Vz9LvW8byvN0I38x  
-http://caniuse.com/
+http://caniuse.com/  
+https://www.codeschool.com/courses/discover-devtools  
+http://learnlayout.com/
 
 ## HTML
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction  
+http://html5doctor.com/
 
 ## CSS
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started  
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048  
+https://css-tricks.com/examples/ShapesOfCSS/  
+http://flexboxfroggy.com/  
+http://www.flexboxdefense.com/  
+https://css-tricks.com  
+http://lesscss.org/  
+http://sass-lang.com/
 
 ## JS
 http://eloquentjavascript.net  
 JavaScript: The Good Parts (Book)  
-https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
+https://javascript30.com/
+
+### Tools
+https://babeljs.io/
+https://webpack.github.io/
 
 ### ES6+
 https://egghead.io/courses/learn-es6-ecmascript-2015
@@ -21,6 +38,17 @@ https://egghead.io/courses/learn-es6-ecmascript-2015
 http://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript  
 https://zeekat.nl/articles/constructors-considered-mildly-confusing.html  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+
+## React & Redux
+
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
+https://facebook.github.io/react/  
+https://www.codecademy.com/learn/react-101  
+https://www.codecademy.com/learn/react-102  
+http://redux.js.org/  
+https://egghead.io/courses/react-fundamentals  
+https://egghead.io/courses/getting-started-with-redux  
+https://github.com/ReactTraining/react-router 
 
 ## NodeJS
 http://nodejs.org  
@@ -36,3 +64,4 @@ https://www.nngroup.com/articles/ten-usability-heuristics/
 
 ## Misc
 http://semver.org/
+https://en.bem.info/
