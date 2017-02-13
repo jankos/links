@@ -25,7 +25,7 @@ http://sass-lang.com/
 http://eloquentjavascript.net  
 JavaScript: The Good Parts (Book)  
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
-https://javascript30.com/
+https://javascript30.com/http://ejohn.org/blog/simple-javascript-inheritance/
 
 ### Tools
 https://babeljs.io/
@@ -38,6 +38,11 @@ https://egghead.io/courses/learn-es6-ecmascript-2015
 http://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript  
 https://zeekat.nl/articles/constructors-considered-mildly-confusing.html  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+
+### Misc
+http://notes.jetienne.com/2011/03/22/microeventjs.html  
+http://ejohn.org/blog/javascript-micro-templating/  
+http://ejohn.org/blog/simple-javascript-inheritance/
 
 ## React & Redux
 
