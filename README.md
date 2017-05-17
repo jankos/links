@@ -5,7 +5,10 @@ Collection of links I find worthy to save somewhere for later use. Mostly relate
 https://coggle.it/diagram/Vz9LvW8byvN0I38x  
 http://caniuse.com/  
 https://www.codeschool.com/courses/discover-devtools  
-http://learnlayout.com/
+http://learnlayout.com/  
+http://www.alvit.de/handbook/  
+https://www.frontendhandbook.com/  
+https://frontendmasters.com/books/front-end-handbook/2017/  
 
 ## HTML
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction  
@@ -24,8 +27,10 @@ http://sass-lang.com/
 ## JS
 http://eloquentjavascript.net  
 JavaScript: The Good Parts (Book)  
+https://github.com/getify/You-Dont-Know-JS  
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
 https://javascript30.com/http://ejohn.org/blog/simple-javascript-inheritance/
+
 
 ### Tools
 https://babeljs.io/
