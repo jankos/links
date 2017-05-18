@@ -31,6 +31,8 @@ https://github.com/getify/You-Dont-Know-JS
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q  
 https://javascript30.com/http://ejohn.org/blog/simple-javascript-inheritance/
 
+### Testing
+http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html  
 
 ### Tools
 https://babeljs.io/
